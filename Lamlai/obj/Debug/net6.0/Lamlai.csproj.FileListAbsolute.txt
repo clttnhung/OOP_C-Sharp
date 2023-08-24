@@ -1,0 +1,15 @@
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.csproj.AssemblyReference.cache
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.AssemblyInfoInputs.cache
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.AssemblyInfo.cs
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.csproj.CoreCompileInputs.cache
+G:\OOP\Lamlai\bin\Debug\net6.0\Lamlai.exe
+G:\OOP\Lamlai\bin\Debug\net6.0\Lamlai.deps.json
+G:\OOP\Lamlai\bin\Debug\net6.0\Lamlai.runtimeconfig.json
+G:\OOP\Lamlai\bin\Debug\net6.0\Lamlai.dll
+G:\OOP\Lamlai\bin\Debug\net6.0\Lamlai.pdb
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.dll
+G:\OOP\Lamlai\obj\Debug\net6.0\refint\Lamlai.dll
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.pdb
+G:\OOP\Lamlai\obj\Debug\net6.0\Lamlai.genruntimeconfig.cache
+G:\OOP\Lamlai\obj\Debug\net6.0\ref\Lamlai.dll

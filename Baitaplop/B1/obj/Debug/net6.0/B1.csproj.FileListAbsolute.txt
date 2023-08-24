@@ -1,0 +1,15 @@
+G:\OOP\Baitaplop\B1\bin\Debug\net6.0\B1.exe
+G:\OOP\Baitaplop\B1\bin\Debug\net6.0\B1.deps.json
+G:\OOP\Baitaplop\B1\bin\Debug\net6.0\B1.runtimeconfig.json
+G:\OOP\Baitaplop\B1\bin\Debug\net6.0\B1.dll
+G:\OOP\Baitaplop\B1\bin\Debug\net6.0\B1.pdb
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.csproj.AssemblyReference.cache
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.AssemblyInfoInputs.cache
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.AssemblyInfo.cs
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.csproj.CoreCompileInputs.cache
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.dll
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\refint\B1.dll
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.pdb
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\B1.genruntimeconfig.cache
+G:\OOP\Baitaplop\B1\obj\Debug\net6.0\ref\B1.dll

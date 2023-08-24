@@ -1,0 +1,15 @@
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.csproj.AssemblyReference.cache
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+G:\OOP\Baitaplop\Bai1\bin\Debug\net6.0\Bai1.exe
+G:\OOP\Baitaplop\Bai1\bin\Debug\net6.0\Bai1.deps.json
+G:\OOP\Baitaplop\Bai1\bin\Debug\net6.0\Bai1.runtimeconfig.json
+G:\OOP\Baitaplop\Bai1\bin\Debug\net6.0\Bai1.dll
+G:\OOP\Baitaplop\Bai1\bin\Debug\net6.0\Bai1.pdb
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.dll
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\refint\Bai1.dll
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.pdb
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+G:\OOP\Baitaplop\Bai1\obj\Debug\net6.0\ref\Bai1.dll

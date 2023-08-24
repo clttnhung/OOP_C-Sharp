@@ -1,0 +1,5 @@
+G:\OOP\Baitaplop\obj\Debug\net6.0\Baitaplop.csproj.AssemblyReference.cache
+G:\OOP\Baitaplop\obj\Debug\net6.0\Baitaplop.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Baitaplop\obj\Debug\net6.0\Baitaplop.AssemblyInfoInputs.cache
+G:\OOP\Baitaplop\obj\Debug\net6.0\Baitaplop.AssemblyInfo.cs
+G:\OOP\Baitaplop\obj\Debug\net6.0\Baitaplop.csproj.CoreCompileInputs.cache

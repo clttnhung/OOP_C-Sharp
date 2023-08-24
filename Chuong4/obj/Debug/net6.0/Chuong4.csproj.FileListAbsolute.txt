@@ -1,0 +1,5 @@
+G:\OOP\Chuong4\obj\Debug\net6.0\Chuong4.csproj.AssemblyReference.cache
+G:\OOP\Chuong4\obj\Debug\net6.0\Chuong4.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Chuong4\obj\Debug\net6.0\Chuong4.AssemblyInfoInputs.cache
+G:\OOP\Chuong4\obj\Debug\net6.0\Chuong4.AssemblyInfo.cs
+G:\OOP\Chuong4\obj\Debug\net6.0\Chuong4.csproj.CoreCompileInputs.cache

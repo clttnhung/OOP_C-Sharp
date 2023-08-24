@@ -1,0 +1,15 @@
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.csproj.AssemblyReference.cache
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.AssemblyInfoInputs.cache
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.AssemblyInfo.cs
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.csproj.CoreCompileInputs.cache
+G:\OOP\cuoiki\bin\Debug\net6.0\cuoiki.exe
+G:\OOP\cuoiki\bin\Debug\net6.0\cuoiki.deps.json
+G:\OOP\cuoiki\bin\Debug\net6.0\cuoiki.runtimeconfig.json
+G:\OOP\cuoiki\bin\Debug\net6.0\cuoiki.dll
+G:\OOP\cuoiki\bin\Debug\net6.0\cuoiki.pdb
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.dll
+G:\OOP\cuoiki\obj\Debug\net6.0\refint\cuoiki.dll
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.pdb
+G:\OOP\cuoiki\obj\Debug\net6.0\cuoiki.genruntimeconfig.cache
+G:\OOP\cuoiki\obj\Debug\net6.0\ref\cuoiki.dll

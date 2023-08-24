@@ -1,0 +1,15 @@
+G:\OOP\Tuhoc\Lop\bin\Debug\net6.0\Lop.exe
+G:\OOP\Tuhoc\Lop\bin\Debug\net6.0\Lop.deps.json
+G:\OOP\Tuhoc\Lop\bin\Debug\net6.0\Lop.runtimeconfig.json
+G:\OOP\Tuhoc\Lop\bin\Debug\net6.0\Lop.dll
+G:\OOP\Tuhoc\Lop\bin\Debug\net6.0\Lop.pdb
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.csproj.AssemblyReference.cache
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.AssemblyInfoInputs.cache
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.AssemblyInfo.cs
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.csproj.CoreCompileInputs.cache
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.dll
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\refint\Lop.dll
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.pdb
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\Lop.genruntimeconfig.cache
+G:\OOP\Tuhoc\Lop\obj\Debug\net6.0\ref\Lop.dll

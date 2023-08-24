@@ -1,0 +1,15 @@
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.csproj.AssemblyReference.cache
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.AssemblyInfoInputs.cache
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.AssemblyInfo.cs
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.csproj.CoreCompileInputs.cache
+G:\OOP\Chuong3\bin\Debug\net6.0\Chuong3.exe
+G:\OOP\Chuong3\bin\Debug\net6.0\Chuong3.deps.json
+G:\OOP\Chuong3\bin\Debug\net6.0\Chuong3.runtimeconfig.json
+G:\OOP\Chuong3\bin\Debug\net6.0\Chuong3.dll
+G:\OOP\Chuong3\bin\Debug\net6.0\Chuong3.pdb
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.dll
+G:\OOP\Chuong3\obj\Debug\net6.0\refint\Chuong3.dll
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.pdb
+G:\OOP\Chuong3\obj\Debug\net6.0\Chuong3.genruntimeconfig.cache
+G:\OOP\Chuong3\obj\Debug\net6.0\ref\Chuong3.dll

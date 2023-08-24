@@ -1,0 +1,15 @@
+G:\OOP\zbaicuoiki\Sach\bin\Debug\net6.0\Sach.exe
+G:\OOP\zbaicuoiki\Sach\bin\Debug\net6.0\Sach.deps.json
+G:\OOP\zbaicuoiki\Sach\bin\Debug\net6.0\Sach.runtimeconfig.json
+G:\OOP\zbaicuoiki\Sach\bin\Debug\net6.0\Sach.dll
+G:\OOP\zbaicuoiki\Sach\bin\Debug\net6.0\Sach.pdb
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.csproj.AssemblyReference.cache
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.AssemblyInfoInputs.cache
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.AssemblyInfo.cs
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.csproj.CoreCompileInputs.cache
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.dll
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\refint\Sach.dll
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.pdb
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\Sach.genruntimeconfig.cache
+G:\OOP\zbaicuoiki\Sach\obj\Debug\net6.0\ref\Sach.dll

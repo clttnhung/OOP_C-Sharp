@@ -1,0 +1,15 @@
+G:\OOP\TKHTTT\bin\Debug\net6.0\TKHTTT.exe
+G:\OOP\TKHTTT\bin\Debug\net6.0\TKHTTT.deps.json
+G:\OOP\TKHTTT\bin\Debug\net6.0\TKHTTT.runtimeconfig.json
+G:\OOP\TKHTTT\bin\Debug\net6.0\TKHTTT.dll
+G:\OOP\TKHTTT\bin\Debug\net6.0\TKHTTT.pdb
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.csproj.AssemblyReference.cache
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.AssemblyInfoInputs.cache
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.AssemblyInfo.cs
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.csproj.CoreCompileInputs.cache
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.dll
+G:\OOP\TKHTTT\obj\Debug\net6.0\refint\TKHTTT.dll
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.pdb
+G:\OOP\TKHTTT\obj\Debug\net6.0\TKHTTT.genruntimeconfig.cache
+G:\OOP\TKHTTT\obj\Debug\net6.0\ref\TKHTTT.dll

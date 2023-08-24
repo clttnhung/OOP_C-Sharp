@@ -1,0 +1,15 @@
+G:\OOP\Btontap\Bai1c2\bin\Debug\net6.0\Bai1c2.exe
+G:\OOP\Btontap\Bai1c2\bin\Debug\net6.0\Bai1c2.deps.json
+G:\OOP\Btontap\Bai1c2\bin\Debug\net6.0\Bai1c2.runtimeconfig.json
+G:\OOP\Btontap\Bai1c2\bin\Debug\net6.0\Bai1c2.dll
+G:\OOP\Btontap\Bai1c2\bin\Debug\net6.0\Bai1c2.pdb
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.csproj.AssemblyReference.cache
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.AssemblyInfoInputs.cache
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.AssemblyInfo.cs
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.csproj.CoreCompileInputs.cache
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.dll
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\refint\Bai1c2.dll
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.pdb
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\Bai1c2.genruntimeconfig.cache
+G:\OOP\Btontap\Bai1c2\obj\Debug\net6.0\ref\Bai1c2.dll
