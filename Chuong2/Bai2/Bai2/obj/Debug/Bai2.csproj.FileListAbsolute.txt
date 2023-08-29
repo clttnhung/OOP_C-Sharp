@@ -1,0 +1,8 @@
+G:\Bai2\Bai2\bin\Debug\Bai2.exe.config
+G:\Bai2\Bai2\bin\Debug\Bai2.exe
+G:\Bai2\Bai2\bin\Debug\Bai2.pdb
+G:\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+G:\Bai2\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+G:\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+G:\Bai2\Bai2\obj\Debug\Bai2.exe
+G:\Bai2\Bai2\obj\Debug\Bai2.pdb

@@ -1,0 +1,16 @@
+G:\Kiemtra\Kiemtra\bin\Debug\Kiemtra.exe.config
+G:\Kiemtra\Kiemtra\bin\Debug\Kiemtra.exe
+G:\Kiemtra\Kiemtra\bin\Debug\Kiemtra.pdb
+G:\Kiemtra\Kiemtra\obj\Debug\Kiemtra.csproj.AssemblyReference.cache
+G:\Kiemtra\Kiemtra\obj\Debug\Kiemtra.csproj.SuggestedBindingRedirects.cache
+G:\Kiemtra\Kiemtra\obj\Debug\Kiemtra.csproj.CoreCompileInputs.cache
+G:\Kiemtra\Kiemtra\obj\Debug\Kiemtra.exe
+G:\Kiemtra\Kiemtra\obj\Debug\Kiemtra.pdb
+G:\Bai1\Kiemtra\bin\Debug\Kiemtra.exe.config
+G:\Bai1\Kiemtra\bin\Debug\Kiemtra.exe
+G:\Bai1\Kiemtra\bin\Debug\Kiemtra.pdb
+G:\Bai1\Kiemtra\obj\Debug\Kiemtra.csproj.AssemblyReference.cache
+G:\Bai1\Kiemtra\obj\Debug\Kiemtra.csproj.SuggestedBindingRedirects.cache
+G:\Bai1\Kiemtra\obj\Debug\Kiemtra.csproj.CoreCompileInputs.cache
+G:\Bai1\Kiemtra\obj\Debug\Kiemtra.exe
+G:\Bai1\Kiemtra\obj\Debug\Kiemtra.pdb
